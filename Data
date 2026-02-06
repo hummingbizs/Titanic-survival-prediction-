@@ -1,0 +1,12 @@
+├── data/
+│   ├── train.csv
+│   ├── test.csv
+│
+├── src/
+│   ├── model.py
+│
+├── output/
+│   ├── submission.csv
+│
+├── requirements.txt
+├── README.md
