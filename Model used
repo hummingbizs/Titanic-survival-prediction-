@@ -1,0 +1,7 @@
+
+
+## ⚙️ Model Used
+- Random Forest Classifier
+- Feature Engineering
+  - Gender encoding
+  - Missing value handling
