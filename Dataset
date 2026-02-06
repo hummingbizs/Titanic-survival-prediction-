@@ -1,0 +1,8 @@
+
+
+This project predicts passenger survival on the Titanic using a Machine Learning model.
+It is based on the famous Kaggle Titanic dataset.
+
+## 📊 Dataset
+- `train.csv` – labeled data used for training
+- `test.csv` – unseen data used for prediction
